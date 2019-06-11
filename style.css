@@ -13,7 +13,7 @@ header {
 
 header:before {
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.8)),
-    url(https://images.unsplash.com/photo-1528419019813-067c18deee09?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1355&q=80)
+    url(https://cdn.pixabay.com/photo/2015/01/25/17/48/math-611503_960_720.jpg)
       no-repeat bottom;
   background-size: cover;
   content: "";
@@ -32,10 +32,9 @@ header:after {
   left: -5%;
   position: absolute;
   right: -5%;
-  /*top: 90%; */
+ 
   top: 100%;
-  /*transform-origin: 0 0; */
-  /*transform: rotateZ(-4deg); */
+  
   z-index: 0;
 }
 
